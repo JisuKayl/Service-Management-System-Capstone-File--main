@@ -1,0 +1,101 @@
+
+.container{
+  height: 100%;
+  width: 30%;
+  background-color: rgb(255, 255, 255);
+  border: solid;
+  margin: 0;
+  padding: 0;
+  border-width:1px;
+  position: fixed;
+  overflow: auto;
+}
+.inbox{
+  height: 150px;
+  margin: 20px;
+  color: aliceblue;
+  background-color: rgb(24, 24, 24);
+}
+.main{
+  width: auto;
+  height: 1000px;
+  border: solid;
+  border-width: 1px;
+  margin-left: 32%;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 50px;
+}
+.header{
+  height: 50px;
+  margin-left: 32%;
+  background-color: rgb(255, 255, 255);
+  width: auto;
+  border: solid;
+  border-width: 1px;
+}
+.inboximage{
+  margin: 100px;
+  font-size: 100px;
+  color: aliceblue;
+  background-color: black;
+}
+@media (min-width:320px)  { 
+  /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
+  .title {
+    width: 400px;
+    height: 200px;
+    background-color: rgb(37, 129, 83);
+    color: black;
+  }   
+}
+
+@media (min-width:480px)  { 
+  /* smartphones, Android phones, landscape iPhone */ 
+  .title {
+    width: 400px;
+    height: 200px;
+    background-color: rgb(255, 81, 0);
+    color: black;
+  }   
+}
+
+@media (min-width:600px)  { 
+  /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ 
+  .title {
+    width: 400px;
+    height: 200px;
+    background-color: rgb(193, 211, 211);
+    color: black;
+  }   
+}
+
+@media (min-width:801px)  { 
+  /* tablet, landscape iPad, lo-res laptops ands desktops */ 
+  .title {
+    width: 400px;
+    height: 200px;
+    background-color: rgb(25, 0, 255);
+    color: black;
+  }   
+}
+
+@media (min-width:1025px) { 
+  /* big landscape tablets, laptops, and desktops */
+  .title {
+    width: 400px;
+    height: 200px;
+    background-color: rgb(255, 0, 128);
+    color: black;
+  }   
+}
+
+@media (min-width:1281px) { 
+  /* hi-res laptops and desktops */
+  .title {
+    width: 400px;
+    height: 200px;
+    background-color: rgb(49, 24, 24);
+    color: black;
+  }   
+}

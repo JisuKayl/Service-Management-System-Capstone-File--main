@@ -1,0 +1,497 @@
+
+@media (min-width:320px)  { 
+    /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
+    .userpic{
+      background-color: green;
+      margin: 1px;
+      text-align: center;
+      height: 8em;
+      width: 6em;
+  }
+  
+  .text{
+      color: rgb(2, 2, 2);
+      font-size: 0.6em;
+      height: 2em;
+      line-height: 2em;
+      width: 10em;
+      
+     
+  }
+  
+  .container{
+      display: flex;
+     
+  }
+  
+  .container2{
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 1.3em;
+      margin-left: 1em;
+      height: 5.4em;
+      width: 33%;
+      font-size: 1.3em;
+      
+      justify-content: space-evenly;
+      
+  }
+  
+  .background{
+      margin: 1em;
+      height: 11em;
+      background-color: rgb(255, 255, 255);
+  }
+  
+  .blackbb{
+      margin: 0.2em;
+      background-color: #000;
+      height: 100em;
+      text-align: center;
+  
+      
+  }
+  
+  .username{
+      
+      text-align: center;
+      
+  
+      width: 11.2em;
+  }
+  
+  .but{
+      margin-top: 2.2em;
+      cursor: pointer;
+      line-height: 2.5;
+      padding: 0 20px;
+      font-size: 1.1em;
+      text-align: center;
+      color: #fff;
+      text-shadow: 1px 1px 1px #000;
+      border-radius: 10px;
+      background-color: rgb(216, 27, 137);
+      height: 4em;
+      width: 20em;
+  }
+  
+  .butbox{
+      
+      margin-left: 17em;
+  }
+    
+}
+  
+@media (min-width:480px)  { 
+    /* smartphones, Android phones, landscape iPhone */ 
+    .userpic{
+      background-color: green;
+      margin: 1px;
+      text-align: center;
+      height: 9em;
+      width: 6em;
+  }
+  
+  .text{
+      color: rgb(2, 2, 2);
+      font-size: 0.7em;
+      height: 2em;
+      line-height: 2em;
+      width: 8em;
+      
+     
+  }
+  
+  .container{
+      display: flex;
+     
+  }
+  
+  .container2{
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 1.3em;
+      height: 5.4em;
+      width: 88%;
+      font-size: 1.3em;
+      
+      justify-content: space-evenly;
+      
+  }
+  
+  .background{
+      margin: 1em;
+      height: 11em;
+      background-color: rgb(255, 255, 255);
+  }
+  
+  .blackbb{
+      margin: 0.2em;
+      background-color: #000;
+      height: 100em;
+      text-align: center;
+  
+      
+  }
+  
+  .username{
+      
+      text-align: center;
+      
+  
+      width: 11.2em;
+  }
+  
+  .but{
+      margin-top: 2.2em;
+      cursor: pointer;
+      line-height: 2.5;
+      padding: 0 20px;
+      font-size: 1.1em;
+      text-align: center;
+      color: #fff;
+      text-shadow: 1px 1px 1px #000;
+      border-radius: 10px;
+      background-color: rgb(216, 27, 137);
+      height: 4em;
+      width: 20em;
+  }
+  
+  .butbox{
+      
+      margin-left: 17em;
+  }
+    
+}
+  
+@media (min-width:600px)  { 
+    /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ 
+    .userpic{
+      background-color: green;
+      margin: 1px;
+      text-align: center;
+      height: 7em;
+      width: 8em;
+     
+  }
+  
+  .text{
+      color: rgb(2, 2, 2);
+      font-size: 1em;
+      height: 2em;
+      line-height: 2em;
+      width: 8em;
+      
+     
+  }
+  
+  .container{
+      display: flex;
+     
+  }
+  
+  .container2{
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 1.3em;
+      height: 5.4em;
+      width: 88%;
+      font-size: 1.3em;
+      
+      justify-content: space-evenly;
+      
+  }
+  
+  .background{
+      margin: 1em;
+      height: 11em;
+      background-color: rgb(255, 255, 255);
+  }
+  
+  .blackbb{
+      margin: 0.2em;
+      background-color: #000;
+      height: 100em;
+      text-align: center;
+  
+      
+  }
+  
+  .username{
+      
+      text-align: center;
+      
+  
+      width: 11.2em;
+  }
+  
+  .but{
+      margin-top: 2.2em;
+      cursor: pointer;
+      line-height: 2.5;
+      padding: 0 20px;
+      font-size: 1.1em;
+      text-align: center;
+      color: #fff;
+      text-shadow: 1px 1px 1px #000;
+      border-radius: 10px;
+      background-color: rgb(216, 27, 137);
+      height: 4em;
+      width: 20em;
+  }
+  
+  .butbox{
+      
+      margin-left: 17em;
+  }
+    
+}
+  
+@media (min-width:801px)  { 
+    /* tablet, landscape iPad, lo-res laptops ands desktops */ 
+    .userpic{
+      background-color: green;
+      margin: 1px;
+      text-align: center;
+      height: 7.7em;
+      width: 14em;
+      
+  }
+  
+  .text{
+      color: rgb(2, 2, 2);
+      font-size: 1em;
+      height: 2em;
+      line-height: 2em;
+      width: 13.5em;
+      
+     
+  }
+  
+  .container{
+      display: flex;
+     
+  }
+  
+  .container2{
+      display: flex;
+      margin-top: 1.3em;
+      height: 5.4em;
+      width: 88%;
+      font-size: 1.3em;
+      
+      justify-content: space-evenly;
+      
+  }
+  
+  .background{
+      margin: 1em;
+      height: 11em;
+      background-color: rgb(255, 255, 255);
+  }
+  
+  .blackbb{
+      margin: 0.2em;
+      background-color: #000;
+      height: 100em;
+      text-align: center;
+  
+      
+  }
+  
+  .username{
+      
+      text-align: center;
+      
+  
+      width: 11.2em;
+  }
+  
+  .but{
+      margin-top: 2.2em;
+      cursor: pointer;
+      line-height: 2.5;
+      padding: 0 20px;
+      font-size: 1.1em;
+      text-align: center;
+      color: #fff;
+      text-shadow: 1px 1px 1px #000;
+      border-radius: 10px;
+      background-color: rgb(216, 27, 137);
+      height: 4em;
+      width: 20em;
+  }
+  
+  .butbox{
+      
+      margin-left: 17em;
+  }
+     
+}
+  
+@media (min-width:1025px) { 
+    /* big landscape tablets, laptops, and desktops */
+    .userpic{
+      background-color: rgb(85, 204, 16);
+      margin: 1px;
+      text-align: center;
+      height: 7.7em;
+      width: 14em;
+      
+  }
+  
+  .text{
+      color: rgb(2, 2, 2);
+      font-size: 1em;
+      height: 2em;
+      line-height: 2em;
+      width: 13.5em;
+      
+     
+  }
+  
+  .container{
+      display: flex;
+     
+  }
+  
+  .container2{
+      display: flex;
+      margin-top: 1.3em;
+      height: 5.4em;
+      width: 88%;
+      font-size: 1.3em;
+      
+      justify-content: space-evenly;
+      
+  }
+  
+  .background{
+      margin: 1em;
+      height: 11em;
+      background-color: rgb(255, 255, 255);
+  }
+  
+  .blackbb{
+      margin: 0.2em;
+      background-color: #000;
+      height: 100em;
+      text-align: center;
+  
+      
+  }
+  
+  .username{
+      
+      text-align: center;
+      
+  
+      width: 11.2em;
+  }
+  
+  .but{
+      margin-top: 2.2em;
+      cursor: pointer;
+      line-height: 2.5;
+      padding: 0 20px;
+      font-size: 1.1em;
+      text-align: center;
+      color: #fff;
+      text-shadow: 1px 1px 1px #000;
+      border-radius: 10px;
+      background-color: rgb(216, 27, 137);
+      height: 4em;
+      width: 20em;
+  }
+  
+  .butbox{
+      
+      margin-left: 17em;
+  }
+    
+}
+  
+@media (min-width:1281px) { 
+  /* hi-res laptops and desktops */
+
+  .userpic{
+    background-color: green;
+    margin: 1px;
+    text-align: center;
+    height: 7.7em;
+    width: 14em;
+    
+    
+}
+
+.text{
+    color: rgb(2, 2, 2);
+    font-size: 1em;
+    height: 2em;
+    width: 13.5em;
+    line-height: 2em;
+    
+   
+}
+
+.container{
+    display: flex;
+   
+}
+
+.container2{
+    display: flex;
+    margin-top: 1.3em;
+    height: 5.4em;
+    width: 88%;
+    font-size: 1.3em;
+    
+    justify-content: space-evenly;
+    
+}
+
+.background{
+    margin: 1em;
+    height: 11em;
+    background-color: rgb(255, 255, 255);
+}
+
+.blackbb{
+    margin: 0.2em;
+    background-color: #000;
+    height: 100em;
+    text-align: center;
+
+    
+}
+
+.username{
+    
+    text-align: center;
+    
+
+    width: 11.2em;
+}
+
+.but{
+    margin-top: 2.2em;
+    cursor: pointer;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1.1em;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(216, 27, 137);
+    height: 4em;
+    width: 20em;
+}
+
+.butbox{
+    
+    margin-left: 17em;
+}
+
+      
+}
